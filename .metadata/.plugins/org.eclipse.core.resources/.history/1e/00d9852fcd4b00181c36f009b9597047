@@ -1,0 +1,16 @@
+package com.companyname.service;
+
+import java.util.List;
+
+import com.companyname.command.TheaterLayout;
+import com.companyname.command.TheaterRequest;
+
+public interface TheaterSeatingService {
+    
+    TheaterLayout getTheaterLayout(String rawLayout);
+    
+    List<TheaterRequest> getTicketRequests(String ticketRequests);
+    
+    void processTicketRequests(TheaterLayout layout, List<TheaterRequest> requests);
+
+}

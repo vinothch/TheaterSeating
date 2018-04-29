@@ -1,0 +1,111 @@
+2018-04-29 12:34:23,800 [Worker-25] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/pom.xml
+2018-04-29 12:34:25,317 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.theater:TheaterSeating:0.0.1-SNAPSHOT @ /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/pom.xml.
+2018-04-29 12:34:26,090 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TheaterSeating/src/main/java
+2018-04-29 12:34:26,095 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TheaterSeating/src/test/java
+2018-04-29 12:34:26,215 [Worker-25] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2018-04-29 12:34:26,598 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:34:26,604 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/main/resources
+2018-04-29 12:34:26,610 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:34:26,610 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/test/resources
+2018-04-29 12:35:30,722 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:35:30,723 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/main/resources
+2018-04-29 12:35:30,725 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:35:30,725 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/test/resources
+2018-04-29 12:35:39,130 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:35:39,131 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/main/resources
+2018-04-29 12:35:39,134 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:35:39,135 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/test/resources
+2018-04-29 12:36:01,904 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:36:01,905 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/main/resources
+2018-04-29 12:36:01,907 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:36:01,907 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/test/resources
+2018-04-29 12:36:15,751 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:36:15,752 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/main/resources
+2018-04-29 12:36:15,753 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:36:15,754 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/test/resources
+2018-04-29 12:40:40,932 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:40:40,933 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/main/resources
+2018-04-29 12:40:40,935 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:40:40,935 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/test/resources
+2018-04-29 12:45:59,356 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:45:59,357 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/main/resources
+2018-04-29 12:45:59,359 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:45:59,359 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/test/resources
+2018-04-29 12:46:18,097 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:46:18,098 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/main/resources
+2018-04-29 12:46:18,101 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:46:18,102 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/test/resources
+2018-04-29 12:46:49,528 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:46:49,528 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/main/resources
+2018-04-29 12:46:49,530 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:46:49,531 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/test/resources
+2018-04-29 12:47:09,345 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:47:09,345 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/main/resources
+2018-04-29 12:47:09,348 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:47:09,348 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/test/resources
+2018-04-29 12:47:17,815 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:47:17,816 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/main/resources
+2018-04-29 12:47:17,817 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:47:17,818 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/test/resources
+2018-04-29 12:47:26,517 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:47:26,517 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/main/resources
+2018-04-29 12:47:26,520 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:47:26,520 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/test/resources
+2018-04-29 12:47:34,149 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:47:34,150 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/main/resources
+2018-04-29 12:47:34,152 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:47:34,153 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/test/resources
+2018-04-29 12:47:46,672 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:47:46,672 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/main/resources
+2018-04-29 12:47:46,674 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:47:46,674 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/test/resources
+2018-04-29 12:48:47,490 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:48:47,491 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/main/resources
+2018-04-29 12:48:47,493 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:48:47,494 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/test/resources
+2018-04-29 12:49:07,960 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:49:07,961 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/main/resources
+2018-04-29 12:49:07,965 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:49:07,965 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/test/resources
+2018-04-29 12:49:17,429 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:49:17,430 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/main/resources
+2018-04-29 12:49:17,432 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:49:17,432 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/test/resources
+2018-04-29 12:49:48,421 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:49:48,422 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/main/resources
+2018-04-29 12:49:48,423 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:49:48,424 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/test/resources
+2018-04-29 12:50:13,311 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:50:13,312 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/main/resources
+2018-04-29 12:50:13,313 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:50:13,313 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/test/resources
+2018-04-29 12:51:13,798 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:51:13,799 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/main/resources
+2018-04-29 12:51:13,801 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:51:13,801 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/test/resources
+2018-04-29 12:52:30,251 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:52:30,252 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/main/resources
+2018-04-29 12:52:30,253 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:52:30,253 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/test/resources
+2018-04-29 12:53:09,542 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:53:09,542 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/main/resources
+2018-04-29 12:53:09,543 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:53:09,543 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/test/resources
+2018-04-29 12:53:56,448 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.theater:TheaterSeating:0.0.1-SNAPSHOT @ /Users/vinoth/Downloads/TheaterSeating/TheatreSeating/pom.xml.
+2018-04-29 12:53:57,125 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:53:57,126 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheatreSeating/src/main/resources
+2018-04-29 12:53:57,128 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:53:57,129 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheatreSeating/src/test/resources
+2018-04-29 12:53:58,244 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:53:58,244 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheatreSeating/src/main/resources
+2018-04-29 12:53:58,246 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:53:58,246 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheatreSeating/src/test/resources
+2018-04-29 12:54:41,654 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.theater:TheaterSeating:0.0.1-SNAPSHOT @ /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/pom.xml.
+2018-04-29 12:54:42,457 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:54:42,461 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/main/resources
+2018-04-29 12:54:42,464 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:54:42,464 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/test/resources
+2018-04-29 12:54:43,689 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:54:43,689 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/main/resources
+2018-04-29 12:54:43,690 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 12:54:43,690 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vinoth/Downloads/TheaterSeating/TheaterSeating/src/test/resources
